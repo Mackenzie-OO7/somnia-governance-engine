@@ -1,0 +1,58 @@
+# Rust build artifacts
+backend/target/
+**/target/
+
+# Debug and release builds
+debug/
+release/
+
+# Cargo lock file (if you want to ignore it)
+# Cargo.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node.js dependencies (if any)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database files
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# Contract artifacts and cache
+contracts/out/
+contracts/cache/
+contracts/broadcast/
+
+# Coverage reports
+coverage/
+
+# Temporary files
+tmp/
+temp/
