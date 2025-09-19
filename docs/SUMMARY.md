@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of contents
 
 ## Getting Started
 
@@ -7,16 +7,7 @@
 
 ## Integration Guides
 
-* [API Guide](API_GUIDE.md)
-  * [Getting Started](RUST_API_GUIDE.md#getting-started)
-  * [Core Components](RUST_API_GUIDE.md#core-components)
-  * [Configuration](RUST_API_GUIDE.md#configuration)
-  * [Blockchain Integration](RUST_API_GUIDE.md#blockchain-integration)
-  * [Database Operations](RUST_API_GUIDE.md#database-operations)
-  * [Event Monitoring](RUST_API_GUIDE.md#event-monitoring)
-  * [Error Handling](RUST_API_GUIDE.md#error-handling)
-  * [Examples](RUST_API_GUIDE.md#examples)
-
+* [API Guide](integration-guides/api_guide.md)
 * [Smart Contracts Guide](SMART_CONTRACTS_GUIDE.md)
   * [Contract Overview](SMART_CONTRACTS_GUIDE.md#contract-overview)
   * [Deployment Guide](SMART_CONTRACTS_GUIDE.md#deployment-guide)
@@ -50,18 +41,3 @@
 
 * [API Deployment Options](api-deployment.md)
 * [Custom Contract Integration](custom-contracts.md)
-* [Performance Optimization](performance.md)
-* [Security Auditing](security-audit.md)
-
-## Reference
-
-* [API Reference](api-reference.md)
-* [Contract Reference](contract-reference.md)
-* [Configuration Reference](config-reference.md)
-* [Error Codes](error-codes.md)
-
-## Community
-
-* [Contributing](contributing.md)
-* [Changelog](changelog.md)
-* [Support](support.md)
